@@ -43,7 +43,7 @@
   </issueManagement>
 
   <properties>
-    <jetty.version>6.1.22</jetty.version>
+    <jetty.version>6.1.23</jetty.version>
     <tika.version>1.7</tika.version>
     <project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
     <clirr.baseline.version>2.2.0</clirr.baseline.version>
